@@ -1,0 +1,15 @@
+html {
+	font-size: 62.5%;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
+* {
+	font-family: "Overpass", sans-serif;
+}
+.main-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
